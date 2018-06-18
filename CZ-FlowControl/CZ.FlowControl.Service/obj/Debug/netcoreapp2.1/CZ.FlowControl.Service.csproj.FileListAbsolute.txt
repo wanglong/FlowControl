@@ -1,0 +1,12 @@
+C:\Users\zhougq\Source\Repos\zhougq-s-github\CZ-FlowControl\CZ.FlowControl.Service\bin\Debug\netcoreapp2.1\CZ.FlowControl.Service.deps.json
+C:\Users\zhougq\Source\Repos\zhougq-s-github\CZ-FlowControl\CZ.FlowControl.Service\bin\Debug\netcoreapp2.1\CZ.FlowControl.Service.dll
+C:\Users\zhougq\Source\Repos\zhougq-s-github\CZ-FlowControl\CZ.FlowControl.Service\bin\Debug\netcoreapp2.1\CZ.FlowControl.Service.pdb
+C:\Users\zhougq\Source\Repos\zhougq-s-github\CZ-FlowControl\CZ.FlowControl.Service\bin\Debug\netcoreapp2.1\CZ.FlowControl.Spi.dll
+C:\Users\zhougq\Source\Repos\zhougq-s-github\CZ-FlowControl\CZ.FlowControl.Service\bin\Debug\netcoreapp2.1\CZ.FlowControl.Spi.pdb
+C:\Users\zhougq\Source\Repos\zhougq-s-github\CZ-FlowControl\CZ.FlowControl.Service\obj\Debug\netcoreapp2.1\CZ.FlowControl.Service.csprojAssemblyReference.cache
+C:\Users\zhougq\Source\Repos\zhougq-s-github\CZ-FlowControl\CZ.FlowControl.Service\obj\Debug\netcoreapp2.1\CZ.FlowControl.Service.csproj.CoreCompileInputs.cache
+C:\Users\zhougq\Source\Repos\zhougq-s-github\CZ-FlowControl\CZ.FlowControl.Service\obj\Debug\netcoreapp2.1\CZ.FlowControl.Service.AssemblyInfoInputs.cache
+C:\Users\zhougq\Source\Repos\zhougq-s-github\CZ-FlowControl\CZ.FlowControl.Service\obj\Debug\netcoreapp2.1\CZ.FlowControl.Service.AssemblyInfo.cs
+C:\Users\zhougq\Source\Repos\zhougq-s-github\CZ-FlowControl\CZ.FlowControl.Service\obj\Debug\netcoreapp2.1\CZ.FlowControl.Service.csproj.CopyComplete
+C:\Users\zhougq\Source\Repos\zhougq-s-github\CZ-FlowControl\CZ.FlowControl.Service\obj\Debug\netcoreapp2.1\CZ.FlowControl.Service.dll
+C:\Users\zhougq\Source\Repos\zhougq-s-github\CZ-FlowControl\CZ.FlowControl.Service\obj\Debug\netcoreapp2.1\CZ.FlowControl.Service.pdb
