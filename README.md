@@ -3,6 +3,7 @@
 # .Net Version
 .Net Core 2.1.0
 # API
+```csharp
 var strategy = new FlowControlStrategy(){
       ID = "TPSFC",      
       Name = "服务TPS限流",     
@@ -12,6 +13,6 @@ var strategy = new FlowControlStrategy(){
 };
 
 FlowControlService.FlowControl(strategy, 1);
-
+```
 
 
