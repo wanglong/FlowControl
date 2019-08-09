@@ -4,7 +4,7 @@ namespace CZ.FlowControl.Service
 {
     using CZ.FlowControl.Spi;
 
-    public class Throttler
+    class Throttler
     {
         private readonly IThrottleStrategy strategy;
 

@@ -5,7 +5,7 @@ namespace CZ.FlowControl.Service
     /// <summary>
     /// 漏桶
     /// </summary>
-    public abstract class LeakyTokenBucket : TokenBucket
+    abstract class LeakyTokenBucket : TokenBucket
     {
         protected readonly long stepTokens;
         protected long ticksStepInterval;

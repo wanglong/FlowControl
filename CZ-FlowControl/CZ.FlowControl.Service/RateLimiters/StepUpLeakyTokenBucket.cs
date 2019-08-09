@@ -8,7 +8,7 @@ namespace CZ.FlowControl.Service
     /// <remarks>
     ///  StepUpLeakyTokenBucketStrategy resemembles an empty bucket at the beginning but get filled will tokens over a fixed interval.
     /// </remarks>
-    public class StepUpLeakyTokenBucket : LeakyTokenBucket
+    class StepUpLeakyTokenBucket : LeakyTokenBucket
     {
         private long lastActivityTime;
 

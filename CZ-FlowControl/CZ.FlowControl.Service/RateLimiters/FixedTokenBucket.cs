@@ -5,7 +5,7 @@ namespace CZ.FlowControl.Service
     /// <summary>
     /// 固定令牌桶
     /// </summary>
-    public class FixedTokenBucket : TokenBucket
+    class FixedTokenBucket : TokenBucket
     {
         public FixedTokenBucket(long maxTokens, long refillInterval, long refillIntervalInMilliSeconds)
             : base(maxTokens, refillInterval, refillIntervalInMilliSeconds)

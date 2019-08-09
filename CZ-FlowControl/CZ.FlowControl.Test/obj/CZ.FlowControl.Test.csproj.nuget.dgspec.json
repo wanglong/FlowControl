@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\OpenSource\\GitHub\\Source\\Repos\\FlowControl\\CZ-FlowControl\\CZ.FlowControl.Test\\CZ.FlowControl.Test.csproj": {}
+  },
+  "projects": {
+    "F:\\OpenSource\\GitHub\\Source\\Repos\\FlowControl\\CZ-FlowControl\\CZ.FlowControl.Service\\CZ.FlowControl.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\OpenSource\\GitHub\\Source\\Repos\\FlowControl\\CZ-FlowControl\\CZ.FlowControl.Service\\CZ.FlowControl.Service.csproj",
+        "projectName": "CZ.FlowControl.Service",
+        "projectPath": "F:\\OpenSource\\GitHub\\Source\\Repos\\FlowControl\\CZ-FlowControl\\CZ.FlowControl.Service\\CZ.FlowControl.Service.csproj",
+        "packagesPath": "C:\\Users\\zhougq\\.nuget\\packages\\",
+        "outputPath": "F:\\OpenSource\\GitHub\\Source\\Repos\\FlowControl\\CZ-FlowControl\\CZ.FlowControl.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zhougq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.teld.org/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "F:\\OpenSource\\GitHub\\Source\\Repos\\FlowControl\\CZ-FlowControl\\CZ.FlowControl.Spi\\CZ.FlowControl.Spi.csproj": {
+                "projectPath": "F:\\OpenSource\\GitHub\\Source\\Repos\\FlowControl\\CZ-FlowControl\\CZ.FlowControl.Spi\\CZ.FlowControl.Spi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "F:\\OpenSource\\GitHub\\Source\\Repos\\FlowControl\\CZ-FlowControl\\CZ.FlowControl.Spi\\CZ.FlowControl.Spi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\OpenSource\\GitHub\\Source\\Repos\\FlowControl\\CZ-FlowControl\\CZ.FlowControl.Spi\\CZ.FlowControl.Spi.csproj",
+        "projectName": "CZ.FlowControl.Spi",
+        "projectPath": "F:\\OpenSource\\GitHub\\Source\\Repos\\FlowControl\\CZ-FlowControl\\CZ.FlowControl.Spi\\CZ.FlowControl.Spi.csproj",
+        "packagesPath": "C:\\Users\\zhougq\\.nuget\\packages\\",
+        "outputPath": "F:\\OpenSource\\GitHub\\Source\\Repos\\FlowControl\\CZ-FlowControl\\CZ.FlowControl.Spi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zhougq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.teld.org/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "F:\\OpenSource\\GitHub\\Source\\Repos\\FlowControl\\CZ-FlowControl\\CZ.FlowControl.Test\\CZ.FlowControl.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\OpenSource\\GitHub\\Source\\Repos\\FlowControl\\CZ-FlowControl\\CZ.FlowControl.Test\\CZ.FlowControl.Test.csproj",
+        "projectName": "CZ.FlowControl.Test",
+        "projectPath": "F:\\OpenSource\\GitHub\\Source\\Repos\\FlowControl\\CZ-FlowControl\\CZ.FlowControl.Test\\CZ.FlowControl.Test.csproj",
+        "packagesPath": "C:\\Users\\zhougq\\.nuget\\packages\\",
+        "outputPath": "F:\\OpenSource\\GitHub\\Source\\Repos\\FlowControl\\CZ-FlowControl\\CZ.FlowControl.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zhougq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.teld.org/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "F:\\OpenSource\\GitHub\\Source\\Repos\\FlowControl\\CZ-FlowControl\\CZ.FlowControl.Service\\CZ.FlowControl.Service.csproj": {
+                "projectPath": "F:\\OpenSource\\GitHub\\Source\\Repos\\FlowControl\\CZ-FlowControl\\CZ.FlowControl.Service\\CZ.FlowControl.Service.csproj"
+              },
+              "F:\\OpenSource\\GitHub\\Source\\Repos\\FlowControl\\CZ-FlowControl\\CZ.FlowControl.Spi\\CZ.FlowControl.Spi.csproj": {
+                "projectPath": "F:\\OpenSource\\GitHub\\Source\\Repos\\FlowControl\\CZ-FlowControl\\CZ.FlowControl.Spi\\CZ.FlowControl.Spi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.7.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

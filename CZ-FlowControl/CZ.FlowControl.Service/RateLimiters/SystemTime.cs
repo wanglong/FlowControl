@@ -2,7 +2,7 @@
 
 namespace CZ.FlowControl.Service
 {
-    public static class SystemTime
+    static class SystemTime
     {
         // Allow modification of "Today" for unit testing
         public static Func<DateTime> SetCurrentTimeUtc = () => DateTime.UtcNow;

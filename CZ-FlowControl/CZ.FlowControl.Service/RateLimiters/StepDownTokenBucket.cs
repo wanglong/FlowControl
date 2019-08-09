@@ -8,7 +8,7 @@ namespace CZ.FlowControl.Service
     /// <remarks>
     /// StepDownLeakyTokenBucketStrategy resembles a bucket which has been filled with tokens at the beginning but subsequently leaks tokens at a fixed interval
     /// </remarks>
-    public class StepDownTokenBucket : LeakyTokenBucket
+    class StepDownTokenBucket : LeakyTokenBucket
     {
         public StepDownTokenBucket(long maxTokens, long refillInterval, int refillIntervalInMilliSeconds, long stepTokens, long stepInterval, int stepIntervalInMilliseconds) : base(maxTokens, refillInterval, refillIntervalInMilliSeconds, stepTokens, stepInterval, stepIntervalInMilliseconds)
         {

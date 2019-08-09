@@ -12,7 +12,7 @@ namespace CZ.FlowControl.Service
     /// <remarks>
     /// The algorithm uses a rolling time window so that precise control over the rate is achieved (without any bursts)
     /// </remarks>
-    public class RollingWindowThrottler
+    class RollingWindowThrottler
     {
         private readonly int occurrences;
         private readonly long timeUnitTicks;
