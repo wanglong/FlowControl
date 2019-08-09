@@ -4,7 +4,7 @@
 .Net Core 2.1.0
 # Installing via NuGet
 
-    Install-Package CZ.FlowControl.Service
+    Install-Package CZ.FlowControl.Service -Version 1.0.0
 
 # API
 ```csharp
