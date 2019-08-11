@@ -25,8 +25,8 @@ var strategy = new FlowControlStrategy()
 {
       ID = "SumFC",
       Name = "服务总访问量限流",
-      Creator = "Teld",
-      LastModifier = "Teld",
+      Creator = "User",
+      LastModifier = "User",
       CreateTime = DateTime.Now,
       LastModifyTime = DateTime.Now,
       StrategyType = FlowControlStrategyType.Sum,
