@@ -1,3 +1,5 @@
+/bin
+/obj
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -42,8 +44,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 /CZ-FlowControl/.vs/CZ-FlowControl
-[Bb]in
-[Dd]ebug*/
-*.sbr
-obj/
-bin/
+/CZ-FlowControl/CZ.FlowControl.Service/bin/Debug
+/CZ-FlowControl/CZ.FlowControl.Spi/bin/Debug
+/CZ-FlowControl.zip
+/CZ-FlowControl/CZ.FlowControl.Service/obj/Debug
+/CZ-FlowControl/CZ.FlowControl.Spi/obj/Debug
